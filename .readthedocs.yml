@@ -13,6 +13,4 @@ sphinx:
   fail_on_warning: false
   
 formats:
-- pdf
-- epub
-- htmlzi
+- all
