@@ -13,4 +13,4 @@ sphinx:
   fail_on_warning: false
   
 formats:
-- all
+all
